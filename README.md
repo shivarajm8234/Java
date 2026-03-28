@@ -8,6 +8,36 @@ This repository is created for learning and revision purposes. It includes progr
 
 The repository will be updated regularly as new concepts are learned and more programs are practiced.
 
+📚 Topics Covered
+
+- 1 Dimensional Arrays
+- 2D Arrays in Java
+- ArrayList
+- Arrays
+- Basics of OOPs
+- Binary Search Tree
+- Binary Tree Data Structure
+- Bit Manipulation
+- Character Data-Type and String Data-Type
+- Dynamic Programming
+- Functions in Java
+- Graph Data Structure
+- HashMap and HashSet
+- If-else in Java
+- Java Mathematics
+- Java String and StringBuilder
+- Linear Search and Binary Search
+- Logical Operators and Comments
+- Number Theory
+- Practice on Pattern Questions Loops
+- Priority Queue
+- Programming Variables and Operators
+- Recursion Backtracking
+- Sliding Window Technique
+- Sorting Algorithms
+- Stack and Queue
+- Two Pointer Technique
+
 🎯 Purpose
 
 The main goals of this repository are:
